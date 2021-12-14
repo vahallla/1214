@@ -1,2 +1,2 @@
-Commit in secondBranch
+1. Commit in secondBranch
 ## commit in the secondBranch
