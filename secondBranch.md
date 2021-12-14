@@ -1,7 +1,6 @@
 20183193 
 김영우
 
-
 secondBranch.md
 1. Commit in secondBranch
 ## commit in the secondBranch
